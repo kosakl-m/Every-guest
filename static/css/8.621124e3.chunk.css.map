@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.scss"],"names":[],"mappings":"AAAA,SACI,aAAc,CAElB,aACI,SAAU,CACV,YAAa,CACb,cAAe","file":"8.621124e3.chunk.css","sourcesContent":[".sortImg{\r\n    margin: 60px 0;\r\n}\r\n.sortImg>img{\r\n    width: 90%;\r\n    height: 180px;\r\n    margin: 15px 5%;\r\n}"]}
